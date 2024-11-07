@@ -6,7 +6,7 @@
         {
             "name": "achill113",
             "url": "https://github.com/achill113",
-            "discord": "achill113#9324"
+            "discord": "achill113"
         }
     ],
     "compatibility": {
@@ -161,7 +161,7 @@
         }
     ],
     "url": "https://github.com/achill113/5e-complete",
-    "manifest": "https://github.com/achill113/5e-complete/releases/latest/download/module.json",
-    "download": "https://github.com/achill113/5e-complete/releases/download/v0.3.3/module.zip",
+    "manifest": "https://github.com/Achill113/5e-complete/blob/main/module.json",
+    "download": "https://github.com/Achill113/5e-complete/archive/refs/tags/v0.3.3.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
